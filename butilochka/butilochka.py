@@ -1,10 +1,8 @@
 import requests
 import websocket
 import json
-import urllib
 import html
 import math
-import base64
 from .utils import objects
 
 
